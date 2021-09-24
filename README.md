@@ -9,6 +9,8 @@ Anello, E. (2021) Scraping a Wikipedia Table about Greenhouse Gas. Available at:
 
 Brownlee, J. (2019) What Is Natural Language Processing? Available at: https://machinelearningmastery.com/natural-language-processing/ (Accessed: 24 September 2021)
 
+Parker, K. (2018) Data Science Skills: Web scraping using python. Available at: https://towardsdatascience.com/data-science-skills-web-scraping-using-python-d1a85ef607ed (Accessed: 24 September 2021)
+
 Shukla, P. (2020) Natural Language Processing (NLP) with Python — Tutorial. Available at: https://pub.towardsai.net/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0 (Accessed: 24 September 2021)
 
 Udacity (2021) Artificial Intelligence for Trading. Available at: https://www.udacity.com/course/ai-for-trading--nd880 (Accessed: 24 September 2021)
