@@ -5,6 +5,8 @@ Overview of theory and applications of NLP
 
 Ameisen, E. (2018) How to solve 90% of NLP problems: a step-by-step guide. Available at: https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e (Accessed: 24 September 2021)
 
+Andrade, F. (2020) Web Scraping with Beautiful Soup, Selenium, or Scrapy? Available at: https://towardsdatascience.com/web-scraping-with-beautiful-soup-selenium-or-scrapy-62c6f3545de7 (Accessed: 24 September 2021)
+
 Anello, E. (2021) Scraping a Wikipedia Table about Greenhouse Gas. Available at: https://towardsai.net/p/latest/scraping-a-wikipedia-table-about-greenhouse-gas?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost (Accessed: 24 September 2021)
 
 Brownlee, J. (2019) What Is Natural Language Processing? Available at: https://machinelearningmastery.com/natural-language-processing/ (Accessed: 24 September 2021)
