@@ -1,5 +1,10 @@
 # Natural Language Processing (NLP)
-Overview of theory and applications of NLP
+Overview of theory and applications of NLP.
+
+1. Regular Expressions
+2. Data Scraping
+3. Text Preprocessing
+4. Feature Extraction
 
 ## References
 
@@ -11,7 +16,13 @@ Anello, E. (2021) Scraping a Wikipedia Table about Greenhouse Gas. Available at:
 
 Brownlee, J. (2019) What Is Natural Language Processing? Available at: https://machinelearningmastery.com/natural-language-processing/ (Accessed: 24 September 2021)
 
+Español, CK (2017) What are the different levels of NLP? https://medium.com/@CKEspanol/what-are-the-different-levels-of-nlp-how-do-these-integrate-with-information-retrieval-c0de6b9ebf61 (Accessed: 24 September 2021)
+
+Ghosh, P. (2018) The Fundamentals of Natural Language Processing and Natural Language Generation. Available at: https://www.dataversity.net/fundamentals-natural-language-processing-natural-language-generation/ (Accessed: 24 September 2021)
+
 Halford, E. (2021) Scraping Data from Wikipedia Tables. Available at: https://towardsdatascience.com/scraping-data-from-wikipedia-tables-3efa04c6b53f (Accessed: 24 September 2021)
+
+Johnson, D. (2021) Natural Language Processing Tutorial: What is NLP? Examples. Available at: https://www.guru99.com/nlp-tutorial.html (Accessed: 24 September 2021)
 
 Mysiak, K. (2019) NLP Part 1| Scraping the Web using BeautifulSoup and Python. Available at: https://towardsdatascience.com/scraping-the-web-using-beautifulsoup-and-python-5df8e63d9de3 (Accessed: 24 September 2021)
 
